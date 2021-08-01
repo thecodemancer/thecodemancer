@@ -1,5 +1,9 @@
-![WhoAmI3](https://user-images.githubusercontent.com/1399605/127769439-2908d1c2-ea1e-491c-99d1-39fe68cc34d5.png)
-![WhoAmI4](https://user-images.githubusercontent.com/1399605/127769441-423640df-02fa-4b8d-8cdb-f2152a94f791.png)
+![WhoAmI3](https://user-images.githubusercontent.com/1399605/127769992-bb79fbfd-4225-4a1b-ae2b-5c184d30f70a.png)
+
+
+
+![WhoAmI4](https://user-images.githubusercontent.com/1399605/127769993-5875f966-9f3a-4447-99c0-cb4346db7ae3.png)
+
 
 👨‍💼 Co-Founder of the Data Engineering LATAM community. 
 
