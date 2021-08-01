@@ -2,6 +2,24 @@
 
 👨‍💼 Co-Founder of the [Data Engineering LATAM](https://www.linkedin.com/company/data-engineering-latam) community. 
 
+# Inverviews & Workshops
+
+🗣️ Machine Learning India: [Talk Data to Me](https://twitter.com/ml_india_/status/1415619719332122629)
+
+🗣️ AI TIME JOURNAL: [Transitioning to a Career in Data Science with David Regalado](https://open.spotify.com/episode/5YZs0tcdm12ueztaoTLxwq)
+
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch II](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
+
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
+
+🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/google-cloud-platform-first-steps/)
+
+🗣️ Data Science Woman: [Darkside of Scrum](https://www.linkedin.com/posts/datasciencewomen_les-agradecemos-por-haber-asistido-a-nuestro-activity-6800571708295192576-b9sU)
+
+🗣️ Data Science Woman: [Masterclass in SQL](https://www.linkedin.com/posts/davidregaladodataengineer_sql-dataanalysis-datascience-activity-6798642746786676736-6iSG)
+
+🗣️ Data Science Woman: [Where do we go with the Big Data usage? AWS & GCP](https://www.linkedin.com/posts/davidregaladodataengineer_a-d%C3%B3nde-nos-dirigimos-con-el-uso-de-big-activity-6716483292369092608-0ugE)
+
 # Experience
 
 🏭 More than 12 years of work experience in banking, telecommunications, credit risk centers and advertising agencies. 
@@ -44,18 +62,6 @@
 🥇 Certified in [Python by the Python Institute](https://www.credly.com/badges/eee19e84-8296-423a-a007-ed2c5b4e0c1b). 
 
 🥇 [Certified in R language programming](https://www.coursera.org/account/accomplishments/certificate/DTPPQEDVBA76). 
-
-# Inverviews & Workshops
-
-🗣️ Machine Learning India: [Talk Data to Me](https://twitter.com/ml_india_/status/1415619719332122629)
-
-🗣️ AI TIME JOURNAL: [Transitioning to a Career in Data Science with David Regalado](https://open.spotify.com/episode/5YZs0tcdm12ueztaoTLxwq)
-
-🗣️ UADE: [The Pitch II](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
-
-🗣️ UADE: [The Pitch I](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
-
-🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/google-cloud-platform-first-steps/)
 
 # 💡 Other areas of interest
 
