@@ -20,6 +20,14 @@
 
 🗣️ Data Science Woman: [Where do we go with the Big Data usage? AWS & GCP](https://www.linkedin.com/posts/davidregaladodataengineer_a-d%C3%B3nde-nos-dirigimos-con-el-uso-de-big-activity-6716483292369092608-0ugE)
 
+# Publications
+
+📋 Reading Memes https://rpubs.com/thecodemancer/reading-memes
+
+📋 U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database analysiS https://rpubs.com/thecodemancer/noaa
+
+📋 COVID19 https://rpubs.com/thecodemancer/covid-19
+
 # Experience
 
 🏭 More than 12 years of work experience in banking, telecommunications, credit risk centers and advertising agencies. 
