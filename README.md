@@ -87,13 +87,16 @@
 
 📚 [Slack](https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQh~RB8zr0wVbCBw)
 
-✉ [Telegram: Databricks Certified Associate Study Group](https://lnkd.in/eAEB5A3)
-
-💬 [WhatsApp: DAMA's Study Group (Data Management)](https://chat.whatsapp.com/Elqd5Xv3sluGFLaBfSHxMC)
-
 📺 [YouTube](https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1)
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
+
+Study groups:
+
+🎤 DAMA's Study Group (Data Management)
+🎤 Databricks Certified Associate
+🎤 English speaking and stuff
+🎤 Apache Airflow
 
 <!--
 **thecodemancer/thecodemancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
