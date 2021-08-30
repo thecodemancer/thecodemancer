@@ -14,6 +14,8 @@
 
 🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/google-cloud-platform-first-steps/)
 
+🗣️ Data Science Research Perú: [Beyond the Datalake](https://www.linkedin.com/posts/davidregaladodataengineer_datascience-dataengineering-datawarehouse-activity-6836082792946814976-3ylI)
+
 🗣️ Data Science Woman: [Darkside of Scrum](https://www.linkedin.com/posts/datasciencewomen_les-agradecemos-por-haber-asistido-a-nuestro-activity-6800571708295192576-b9sU)
 
 🗣️ Data Science Woman: [Masterclass in SQL](https://www.linkedin.com/posts/davidregaladodataengineer_sql-dataanalysis-datascience-activity-6798642746786676736-6iSG)
