@@ -4,6 +4,8 @@
 
 # Inverviews & Workshops
 
+🗣️ Member of a board of speakers: [Ask the passionate lifetime learner Thom Ives anything about data science](https://www.youtube.com/watch?v=twiec2y1iLM)
+
 🗣️ Machine Learning India: [Talk Data to Me](https://twitter.com/ml_india_/status/1415619719332122629)
 
 🗣️ AI TIME JOURNAL: [Transitioning to a Career in Data Science with David Regalado](https://open.spotify.com/episode/5YZs0tcdm12ueztaoTLxwq)
