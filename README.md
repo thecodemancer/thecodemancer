@@ -93,9 +93,9 @@
 
 📺 [YouTube](https://www.youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
-📸 [Instagram] (https://www.instagram.com/dataengineeringlatam/)
+📸 [Instagram](https://www.instagram.com/dataengineeringlatam/)
 
-🐦 [Twitter] (https://twitter.com/DataEngiLATAM)
+🐦 [Twitter](https://twitter.com/DataEngiLATAM)
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
