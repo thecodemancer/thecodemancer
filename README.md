@@ -91,7 +91,11 @@
 
 📚 [Slack](https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQh~RB8zr0wVbCBw)
 
-📺 [YouTube](https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1)
+📺 [YouTube](https://www.youtube.com/c/dataengineeringlatam?sub_confirmation=1)
+
+📸 [Instagram] (https://www.instagram.com/dataengineeringlatam/)
+
+🐦 [Twitter] (https://twitter.com/DataEngiLATAM)
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
@@ -99,11 +103,15 @@
 
 🎤 DAMA's Study Group (Data Management)
 
-🎤 Databricks Certified Associate
+🎤 Databricks Certified Associate (Apache Spark)
 
 🎤 English speaking and stuff
 
 🎤 Apache Airflow
+
+🎤 Power BI como debe ser
+
+🎤 Club de Lectura / Designing data-intensive Applications 🐗
 
 <!--
 **thecodemancer/thecodemancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
