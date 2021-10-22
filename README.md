@@ -4,6 +4,12 @@
 
 # Inverviews & Workshops
 
+🗣️ AwesomeFest 2021 (Coming soon!): [Is still Data Science the sexiest job of the decade?](https://www.awesomefest.co/)
+
+🗣️ DevFest 2021 UK & Ireland (Coming soon!): [Predict Bike Trip Duration with a Regression Model in BQML](https://www.devfest-uki.com/)
+
+🗣️ Eneisoft - UNMSM: [Build and ETL using your own Spotify data!](https://www.facebook.com/watch/live/?ref=watch_permalink&v=561055481815025)
+
 🗣️ Member of a board of speakers: [Ask the passionate lifetime learner Thom Ives anything about data science](https://www.youtube.com/watch?v=twiec2y1iLM)
 
 🗣️ Machine Learning India: [Talk Data to Me](https://twitter.com/ml_india_/status/1415619719332122629)
