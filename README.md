@@ -56,9 +56,9 @@
 
 🎓 With a specialization in [Data Science and Big Data Analytics](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716) [from MIT](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716). 
 
-🎓 With **10 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
+🎓 With **13 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
-🎓 With **13 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
+🎓 With **17 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
@@ -109,17 +109,19 @@
 
 ## Study groups:
 
-🎤 DAMA's Study Group (Data Management)
+🎤 Club de Lectura / Designing data-intensive Applications 🐗
 
-🎤 Databricks Certified Associate (Apache Spark)
-
-🎤 English speaking and stuff
-
-🎤 Apache Airflow
+🎤 Microsoft Azure
 
 🎤 Power BI como debe ser
 
-🎤 Club de Lectura / Designing data-intensive Applications 🐗
+🎤 English speaking and stuff
+
+🎤 DAMA's Study Group (Data Management)
+
+🎤 Apache Airflow
+
+🎤 Databricks Certified Associate (Apache Spark)
 
 <!--
 **thecodemancer/thecodemancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
