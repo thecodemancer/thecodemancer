@@ -1,6 +1,6 @@
 # Who am I?
 
-👨‍💼 Co-Founder of the [Data Engineering LATAM](https://www.linkedin.com/company/data-engineering-latam) community. 
+👨‍💼 Founder of the [Data Engineering LATAM](https://www.linkedin.com/company/data-engineering-latam) community. 
 
 # Inverviews & Workshops
 
@@ -56,10 +56,9 @@
 
 🎓 With a specialization in [Data Science and Big Data Analytics](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716) [from MIT](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716). 
 
-🎓 With **13 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
+🎓 With **15 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
-🎓 With **17 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
-
+🎓 With **20 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
 
@@ -89,15 +88,15 @@
 
 📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
 
-# About Data Engineering LATAM
+# 🌎 About  Data Engineering Latam
 
 📈 [Linkedin](https://www.linkedin.com/company/data-engineering-latam/)
+
+📺 [YouTube](https://www.youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
 ✉ [Telegram](https://t.me/dataengineeringlatam)
 
 📚 [Slack](https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQh~RB8zr0wVbCBw)
-
-📺 [YouTube](https://www.youtube.com/c/dataengineeringlatam?sub_confirmation=1)
 
 📸 [Instagram](https://www.instagram.com/dataengineeringlatam/)
 
@@ -113,15 +112,24 @@
 
 🎤 Microsoft Azure
 
+🎤 AWS
+
 🎤 Power BI como debe ser
 
 🎤 English speaking and stuff
 
+🎤 IELTS
+
 🎤 DAMA's Study Group (Data Management)
+
+🎤 Databricks Certified Associate
+
+🎤 Apache Spark
 
 🎤 Apache Airflow
 
-🎤 Databricks Certified Associate (Apache Spark)
+🎤 Snowflake
+
 
 <!--
 **thecodemancer/thecodemancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
