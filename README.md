@@ -1,6 +1,6 @@
 # Who am I?
 
-👨‍💼 Founder of the [Data Engineering LATAM](https://www.linkedin.com/company/data-engineering-latam) community. 
+👨‍💼 Founder of the [Data Engineering Latam](https://www.linkedin.com/company/data-engineering-latam) community. 
 
 # Inverviews & Workshops
 
