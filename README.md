@@ -4,7 +4,7 @@
 
 # Inverviews & Workshops
 
-🗣️ DevFest 2021 UK & Ireland (Coming soon!): [Predict Bike Trip Duration with a Regression Model in BQML](https://www.devfest-uki.com/)
+🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://www.devfest-uki.com/)
 
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
 
@@ -40,7 +40,7 @@
 
 # Experience
 
-🏭 More than 12 years of work experience in banking, telecommunications, credit risk centers and advertising agencies. 
+🏭 More than 13 years of work experience in banking, telecommunications, credit risk centers and advertising agencies. 
 
 👨‍💼 Experience as a Project Manager. 
 
