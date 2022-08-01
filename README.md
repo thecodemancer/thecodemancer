@@ -4,6 +4,8 @@
 
 # Inverviews & Workshops
 
+🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
+
 🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://www.devfest-uki.com/)
 
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
@@ -58,7 +60,7 @@
 
 🎓 With **15 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
-🎓 With **20 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
+🎓 With **28 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
 
@@ -90,45 +92,10 @@
 
 # 🌎 About  Data Engineering Latam
 
-📈 [Linkedin](https://www.linkedin.com/company/data-engineering-latam/)
-
-📺 [YouTube](https://www.youtube.com/c/dataengineeringlatam?sub_confirmation=1)
-
-✉ [Telegram](https://t.me/dataengineeringlatam)
-
-📚 [Slack](https://join.slack.com/t/dataengineeringlatam/shared_invite/zt-qxvqbpvk-FezAdGoQh~RB8zr0wVbCBw)
-
-📸 [Instagram](https://www.instagram.com/dataengineeringlatam/)
-
-🐦 [Twitter](https://twitter.com/DataEngiLATAM)
-
-👍 [Facebook](https://www.facebook.com/dataengineeringlatam)
+👉 [Web](https://beacons.ai/dataengineeringlatam)
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
-## Study groups:
-
-🎤 Club de Lectura / Designing data-intensive Applications 🐗
-
-🎤 Microsoft Azure
-
-🎤 AWS
-
-🎤 Power BI como debe ser
-
-🎤 English speaking and stuff
-
-🎤 IELTS
-
-🎤 DAMA's Study Group (Data Management)
-
-🎤 Databricks Certified Associate
-
-🎤 Apache Spark
-
-🎤 Apache Airflow
-
-🎤 Snowflake
 
 
 <!--
