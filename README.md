@@ -92,6 +92,8 @@
 
 # 🌎 About  Data Engineering Latam
 
+Data Engineering Latam is the largest, fastest-growing, and coolest data community in Latin America whose mission is to promote the region's talent through the dissemination of talks, workshops, study groups, collaborative help, and the creation of relevant content.
+
 👉 [Web](https://beacons.ai/dataengineeringlatam)
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
