@@ -22,7 +22,7 @@
 
 🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
 
-🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/google-cloud-platform-first-steps/)
+🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
 🗣️ Data Science Research Perú: [Beyond the Datalake](https://www.linkedin.com/posts/davidregaladodataengineer_datascience-dataengineering-datawarehouse-activity-6836082792946814976-3ylI)
 
