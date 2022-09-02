@@ -6,7 +6,7 @@
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
 
-🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://www.devfest-uki.com/)
+🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
 
