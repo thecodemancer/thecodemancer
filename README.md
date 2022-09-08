@@ -2,6 +2,16 @@
 
 👨‍💼 Founder of the [Data Engineering Latam](https://www.linkedin.com/company/data-engineering-latam) community. 
 
+# 🏆 Accomplishments
+
+⭐ [Recognized as Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
+
+⭐ [I was inducted into the Google Cloud/Qwiklabs Hall of Fame again](https://www.linkedin.com/feed/update/urn:li:activity:6973489005099106304/)
+
+⭐ [I was inducted into the Google Cloud/Qwiklabs Hall of Fame](https://www.linkedin.com/posts/davidregaladodataengineer_gcp-googlecloud-googlecloudplatform-activity-6774532008455532544-1bU1/)
+
+⭐ [I reached the Olympus of Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado)
+
 # Inverviews & Workshops
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
@@ -46,6 +56,8 @@
 
 👨‍💼 Experience as a Project Manager. 
 
+👨‍🏫 [I teached Python for Data Science in the University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
+
 👨‍💻 Experience working with large volumes of structured and unstructured data (Big Data) with Spark and in the Cloud.
 
 # Studies
@@ -58,19 +70,17 @@
 
 🎓 With a specialization in [Data Science and Big Data Analytics](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716) [from MIT](https://xpro.mit.edu/certificate/2ee4c0e8-b4d6-472f-a99f-bc10900e7716). 
 
+🎓 With a specialization in Artificial Intelligence from UBA-IALAB
+
 🎓 With **15 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
 🎓 With **33 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
 
-📚 With studies in Data Science at Chicago University. 
-
 📚 With studies in [Creative Thinking at Imperial College London](https://www.coursera.org/account/accomplishments/certificate/BML8R8LKSWUM). 
 
 📚 With studies in [Cognitive Technologies at Deloitte University Press](https://deloitte.novoed.com/#!/courses/cognitive-technology/statements/546100).
-
-📚 With studies in Artificial Intelligence at UBA-IALAB
 
 # Certifications
 
