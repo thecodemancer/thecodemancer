@@ -1,3 +1,5 @@
+<img src="https://github.com/thecodemancer/thecodemancer/blob/main/images/1660299419136.jpg" />
+
 # Who am I?
 
 👨‍💼 Founder of the [Data Engineering Latam](https://www.linkedin.com/company/data-engineering-latam) community. 
