@@ -2,17 +2,25 @@
 
 # Who am I?
 
-👨‍💼 Founder of the [Data Engineering Latam](https://www.linkedin.com/company/data-engineering-latam) community. 
+👨‍💼 Founder of [Data Engineering Latam community](https://www.linkedin.com/company/data-engineering-latam), the largest, fastest-growing, and coolest data community in Latin America.
 
 # 🏆 Accomplishments
 
-⭐ [Recognized as Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
+⭐ I teached Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
-⭐ [I was inducted into the Google Cloud/Qwiklabs Hall of Fame again](https://www.linkedin.com/feed/update/urn:li:activity:6973489005099106304/)
+⭐ Recognized as [Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
 
-⭐ [I was inducted into the Google Cloud/Qwiklabs Hall of Fame](https://www.linkedin.com/posts/davidregaladodataengineer_gcp-googlecloud-googlecloudplatform-activity-6774532008455532544-1bU1/)
+⭐ I was inducted into the [Google Cloud/Qwiklabs Hall of Fame (again)](https://www.linkedin.com/feed/update/urn:li:activity:6973489005099106304/)
 
-⭐ [I reached the Olympus of Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado)
+⭐ I was inducted into the [Google Cloud/Qwiklabs Hall of Fame](https://www.linkedin.com/posts/davidregaladodataengineer_gcp-googlecloud-googlecloudplatform-activity-6774532008455532544-1bU1/)
+
+⭐ I reached the Olympus of [Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado)
+
+⭐ The only Latino who presented a workshop at [Google Developer Groups UK & Ireland](https://twitter.com/DevFest_UKI/status/1461748671159095308)
+
+⭐ The only Latino interviewed in [the largest community in India (Machine Learning India)](https://twitter.com/ml_india_/status/1415619719332122629)
+
+⭐ The only Latino who presented a workshop at the [Big Data Conference Europe 2020](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
 # Inverviews & Workshops
 
@@ -46,21 +54,57 @@
 
 # Publications
 
-📋 Reading Memes https://rpubs.com/thecodemancer/reading-memes
+📋 Cassie Kozyrkov's Medium: [Analítica no es narrar historias](https://kozyrk.medium.com/anal%C3%ADtica-no-es-narrar-historias-6792e7a45f17)
 
-📋 U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database analysiS https://rpubs.com/thecodemancer/noaa
+📋 Cassie Kozyrkov's Medium: [¿Qué hace que un analista de datos sea excelente?](https://kozyrk.medium.com/qu%C3%A9-hace-que-un-analista-de-datos-sea-excelente-78cd90056dce)
 
-📋 COVID19 https://rpubs.com/thecodemancer/covid-19
+📋 Medium: [What the heck is DevOps and why does it matters?](https://davidregalado255.medium.com/what-the-heck-is-devops-and-why-does-it-matters-13d5a0969909)
+
+📋 Medium: [¿Qué rayos es DevOps y por qué debe importarte?
+](https://davidregalado255.medium.com/qu%C3%A9-rayos-es-devops-y-por-qu%C3%A9-debe-importarte-3363dfce99d8)
+
+📋 Medium: [The Dark Side of Scrum](https://davidregalado255.medium.com/the-dark-side-of-scrum-12f71d6f99a9)
+
+📋 Medium: [El Lado Oscuro de Scrum](https://davidregalado255.medium.com/el-lado-oscuro-de-scrum-95a773fe7b88)
+
+📋 Medium: [This advice will help you prepare for the Google Cloud Certified Associate Cloud Engineer exam](https://davidregalado255.medium.com/this-advice-will-help-you-prepare-for-the-associate-cloud-engineer-exam-ea0c73190ab0)
+
+📋 Medium: [Este consejo te ayudará a prepararte para el examen de certificación Google Cloud Associate Cloud Engineer](https://davidregalado255.medium.com/este-consejo-te-ayudar%C3%A1-a-prepararte-para-el-examen-de-certificaci%C3%B3n-google-cloud-associate-cloud-df1e8551c506)
+
+📋 Medium: [7 Reasons why you should follow me (a.k.a. my about++ page)](https://davidregalado255.medium.com/7-reasons-why-you-should-follow-me-a-k-a-my-about-page-de806ab6bd3c)
+
+📋 Medium: [7 Razones por las que deberías seguirme (también conocido como mi página about++ )](https://davidregalado255.medium.com/7-razones-por-las-que-deber%C3%ADas-seguirme-tambi%C3%A9n-conocido-como-mi-p%C3%A1gina-about-700d34216ca1)
+
+📋 Medium: [20 nerdy jokes to tell your friends](https://davidregalado255.medium.com/20-nerdy-jokes-to-tell-your-friends-d98654b4c5b0)
+
+📋 Medium: [20 chistes bien nerds para contarles a tus amigos](https://davidregalado255.medium.com/20-chistes-bien-nerds-para-contarles-a-tus-amigos-359266a6b307)
+
+📋 Medium: [How difficult is the Google Cloud Data Engineering Exam?](https://davidregalado255.medium.com/how-difficult-is-the-google-cloud-data-engineering-exam-7e612d94f0b)
+
+📋 Medium: [¿Qué tan dificil es el Examen Google Cloud Data Engineering?
+](https://davidregalado255.medium.com/qu%C3%A9-tan-dificil-es-el-examen-google-cloud-data-engineering-eadf679ea9db)
+
+📋 Medium: [WTF is a Data Lakehouse?](https://davidregalado255.medium.com/wtf-is-a-data-lakehouse-ba14bf66f93b)
+
+📋 Medium: [¿Qué Rayos es un Data Lakehouse?](https://davidregalado255.medium.com/qu%C3%A9-rayos-es-un-data-lakehouse-d5ed46cdc6ac)
+
+📋 R Pubs: [Reading Memes](https://rpubs.com/thecodemancer/reading-memes)
+
+📋 R Pubs: [U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database analysiS](https://rpubs.com/thecodemancer/noaa)
+
+📋 R Pubs: [COVID19](https://rpubs.com/thecodemancer/covid-19)
 
 # Experience
 
-🏭 More than 14 years of work experience in banking, telecommunications, credit risk centers and advertising agencies. 
+🏭 More than 14 years of work experience in banking, telecommunications, credit risk centers, and advertising agencies.
 
-👨‍💼 Experience as a Project Manager. 
+👨‍💼 I led a team of 20 people in 3 different occasions.
 
-👨‍🏫 [I teached Python for Data Science in the University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
+👨‍🏫 I teached Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
 👨‍💻 Experience working with large volumes of structured and unstructured data (Big Data) with Spark and in the Cloud.
+
+🎤 Recurrent speaker and jury in Big Data and Cloud Computing events.
 
 # Studies
 
@@ -76,7 +120,7 @@
 
 🎓 With **15 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
-🎓 With **33 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
+🎓 With **35 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
 
@@ -86,13 +130,13 @@
 
 # Certifications
 
-🥇 [Scrum Master certified by scrum.org](https://www.scrum.org/user/414767). 
+🥇 Certified as [Scrum Master by scrum.org](https://www.scrum.org/user/414767). 
 
 🥇 Certified in [Google Cloud Platform](https://googlecloudcertified.credential.net/profile/ecc33f2c174934aebe31ac418a63d723b063598d) by Google. 
 
 🥇 Certified in [Python by the Python Institute](https://www.credly.com/badges/eee19e84-8296-423a-a007-ed2c5b4e0c1b). 
 
-🥇 [Certified in R language programming](https://www.coursera.org/account/accomplishments/certificate/DTPPQEDVBA76). 
+🥇 Certified in [R language programming](https://www.coursera.org/account/accomplishments/certificate/DTPPQEDVBA76). 
 
 # 💡 Other areas of interest
 
