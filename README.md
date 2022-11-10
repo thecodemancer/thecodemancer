@@ -6,7 +6,7 @@
 
 # 🏆 Accomplishments
 
-⭐ I teached Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
+⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
 ⭐ Recognized as [Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
 
