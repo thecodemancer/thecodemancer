@@ -100,7 +100,7 @@
 
 👨‍💼 I led a team of 20 people in 3 different occasions.
 
-👨‍🏫 I teached Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
+👨‍🏫 I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
 👨‍💻 Experience working with large volumes of structured and unstructured data (Big Data) with Spark and in the Cloud.
 
