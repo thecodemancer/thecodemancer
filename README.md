@@ -28,6 +28,8 @@
 
 🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
+🗣️ AwesomeFest 2022: [Infrastructure as Code](https://www.eventbrite.com/e/masterclass-infraestructura-como-codigo-awesomefest-2022-tickets-453958822057?aff=odcleoeventsincollection)
+
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
 
 🗣️ Eneisoft - UNMSM: [Build and ETL using your own Spotify data!](https://www.facebook.com/watch/live/?ref=watch_permalink&v=561055481815025)
