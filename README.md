@@ -26,11 +26,11 @@
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
 
-🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://twitter.com/DevFest_UKI/status/1461748671159095308)
-
-🗣️ AwesomeFest 2022: [Infrastructure as Code](https://www.eventbrite.com/e/masterclass-infraestructura-como-codigo-awesomefest-2022-tickets-453958822057?aff=odcleoeventsincollection)
+🗣️ AwesomeFest 2022: [Infrastructure as Code](https://www.canva.com/design/DAFSsKiSFC0/ngI_7lIvel4lumFuHbB5mA/view)
 
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
+
+🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
 🗣️ Eneisoft - UNMSM: [Build and ETL using your own Spotify data!](https://www.facebook.com/watch/live/?ref=watch_permalink&v=561055481815025)
 
