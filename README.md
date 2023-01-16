@@ -1,4 +1,4 @@
-<img src="https://github.com/thecodemancer/thecodemancer/blob/main/images/1660299419136.jpg" />
+<img src="https://github.com/thecodemancer/thecodemancer/blob/main/images/background_custom2.png" />
 
 # Who am I?
 
