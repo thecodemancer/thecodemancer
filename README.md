@@ -24,7 +24,7 @@
 
 # Inverviews & Workshops
 
-🗣️ Astana Hub / Google for Startups: [a talk about #artificialintelligence to 15 startups from Central Asia at Silkway Accelerator, organized by Astana Hub, a Google for Startups partner in Central Asia.]([https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446](https://www.linkedin.com/posts/askaraituov_prepwithgdg-cloud-ai-activity-7068072560579497984-vmx2?utm_source=share&utm_medium=member_desktop))
+🗣️ Astana Hub / Google for Startups in Central Asia: [a talk about #artificialintelligence to 15 startups from Central Asia at Silkway Accelerator](https://www.linkedin.com/posts/askaraituov_prepwithgdg-cloud-ai-activity-7068072560579497984-vmx2?utm_source=share&utm_medium=member_desktop)
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
 
