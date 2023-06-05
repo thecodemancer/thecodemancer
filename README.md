@@ -100,7 +100,7 @@
 
 # Experience
 
-🏭 More than 14 years of work experience in banking, telecommunications, credit risk centers, and advertising agencies.
+🏭 More than 15 years of work experience in banking, telecommunications, credit risk centers, and advertising agencies.
 
 👨‍💼 I led a team of 20 people in 3 different occasions.
 
@@ -124,7 +124,7 @@
 
 🎓 With **15 specializations** in **Google Cloud Platform** from *Google Cloud Training* on Coursera. 
 
-🎓 With **35 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
+🎓 With **50 [qwiklabs badges](https://www.qwiklabs.com/public_profiles/b69e273a-dc38-4ee2-b935-37ba4625d5ab)**. 
 
 📚 Global Alumni member with the role of Teaching Assistant. 
 
