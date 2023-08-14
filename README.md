@@ -24,6 +24,8 @@
 
 # Inverviews & Workshops
 
+🗣️ Big Data Conference Europe 2023: [A Gentle Introduction to Apache Beam](https://www.youtube.com/watch?v=ilPNRywA8ak)
+
 🗣️ Astana Hub / Google for Startups in Central Asia: [a talk about #artificialintelligence to 15 startups from Central Asia at Silkway Accelerator](https://www.linkedin.com/posts/askaraituov_prepwithgdg-cloud-ai-activity-7068072560579497984-vmx2?utm_source=share&utm_medium=member_desktop)
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
@@ -46,7 +48,7 @@
 
 🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
 
-🗣️ Big Data Conference Europe: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
+🗣️ Big Data Conference Europe 2020: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
 🗣️ Data Science Research Perú: [Beyond the Datalake](https://www.linkedin.com/posts/davidregaladodataengineer_datascience-dataengineering-datawarehouse-activity-6836082792946814976-3ylI)
 
