@@ -30,6 +30,8 @@
 
 🗣️ Datamin: [Interview with David Regalado, Founder at Data Engineering Latam: “Data quality is not sexy, but it’s the foundation”](https://medium.com/datamin/interview-with-david-regalado-founder-at-data-engineering-latam-data-quality-is-not-sexy-but-f26dcdddd446)
 
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I - 2023](https://www.linkedin.com/feed/update/urn:li:activity:7015987627015208960/)
+
 🗣️ AwesomeFest 2022: [Infrastructure as Code](https://www.canva.com/design/DAFSsKiSFC0/ngI_7lIvel4lumFuHbB5mA/view)
 
 🗣️ AwesomeFest 2021: [Is still Data Science the sexiest job of the decade?](https://youtu.be/3EmG6DTRztY?t=3389)
@@ -44,9 +46,9 @@
 
 🗣️ AI TIME JOURNAL: [Transitioning to a Career in Data Science with David Regalado](https://open.spotify.com/episode/5YZs0tcdm12ueztaoTLxwq)
 
-🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch II](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch II - 2021](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
 
-🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I - 2021](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
 
 🗣️ Big Data Conference Europe 2020: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
