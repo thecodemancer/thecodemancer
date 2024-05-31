@@ -12,6 +12,8 @@
 
 📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
 
+[![David Regalado's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodemancer)](https://github.com/thecodemancer)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodemancer_" height="30" width="40" /></a>
