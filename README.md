@@ -1,6 +1,6 @@
 <img src="https://github.com/thecodemancer/thecodemancer/blob/main/images/1500x500.png" />
 
-<h3 align="left"> Who am I?</h3>
+<h3 align="left">Who am I?</h3>
 
 👨‍💼 Founder of [Data Engineering Latam community](https://www.linkedin.com/company/data-engineering-latam), the largest, fastest-growing, and coolest data community in Latin America.
 
@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="left">🏆 Accomplishments</h3>
+<h3 align="left">Accomplishments</h3>
 
 ⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
@@ -174,7 +174,7 @@
 
 🗣️ Topics: Neuro-Linguistic Programming, Emotional Intelligence, Creative Thinking, Upskilling, Mentoring, Public Speaking, Storytelling.
 
-<h3 align="left">🌎 About  Data Engineering Latam</h3>
+<h3 align="left">About  Data Engineering Latam 🌎 </h3>
 
 Data Engineering Latam is the largest, fastest-growing, and coolest data community in Latin America whose mission is to promote the region's talent through the dissemination of talks, workshops, study groups, collaborative help, and the creation of relevant content.
 
