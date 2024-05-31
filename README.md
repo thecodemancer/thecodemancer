@@ -1,6 +1,6 @@
 <img src="https://github.com/thecodemancer/thecodemancer/blob/main/images/1500x500.png" />
 
-# Who am I?
+<h3 align="left"> Who am I?</h3>
 
 👨‍💼 Founder of [Data Engineering Latam community](https://www.linkedin.com/company/data-engineering-latam), the largest, fastest-growing, and coolest data community in Latin America.
 
@@ -12,8 +12,18 @@
 
 📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodemancer_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davidregaladodataengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidregaladodataengineer" height="30" width="40" /></a>
+<a href="https://instagram.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodemancer_" height="30" width="40" /></a>
+<a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
+</p>
 
-# 🏆 Accomplishments
+
+<h3 align="left">🏆 Accomplishments</h3>
 
 ⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
@@ -31,7 +41,7 @@
 
 ⭐ The only Latino who presented a workshop at the [Big Data Conference Europe 2020](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
-# Inverviews & Workshops
+<h3 align="left">Inverviews & Workshops</h3>
 
 🗣️ Big Data Conference Europe 2023: [A Gentle Introduction to Apache Beam](https://www.youtube.com/watch?v=ilPNRywA8ak)
 
@@ -69,7 +79,7 @@
 
 🗣️ Data Science Woman: [Where do we go with the Big Data usage? AWS & GCP](https://www.linkedin.com/posts/davidregaladodataengineer_a-d%C3%B3nde-nos-dirigimos-con-el-uso-de-big-activity-6716483292369092608-0ugE)
 
-# Publications
+<h3 align="left">Publications</h3>
 
 📋 Cassie Kozyrkov's Medium: [Analítica no es narrar historias](https://kozyrk.medium.com/anal%C3%ADtica-no-es-narrar-historias-6792e7a45f17)
 
@@ -111,7 +121,7 @@
 
 📋 R Pubs: [COVID19](https://rpubs.com/thecodemancer/covid-19)
 
-# Experience
+<h3 align="left">Experience</h3>
 
 🏭 More than 15 years of work experience in banking, telecommunications, credit risk centers, and advertising agencies.
 
@@ -123,7 +133,7 @@
 
 🎤 Recurrent speaker and jury in Big Data and Cloud Computing events.
 
-# Studies
+<h3 align="left">Studies</h3>
 
 🎓 Systems Engineer from the Technological University of Peru (UTP), tenth superior. 
 
@@ -145,26 +155,26 @@
 
 📚 With studies in [Cognitive Technologies at Deloitte University Press](https://deloitte.novoed.com/#!/courses/cognitive-technology/statements/546100).
 
-# Certifications
+<h3 align="left">Certifications</h3>
 
 🥇 Certified as [Scrum Master by scrum.org](https://www.scrum.org/user/414767). 
 
-🥇 Certified in [Google Cloud Platform](https://googlecloudcertified.credential.net/profile/ecc33f2c174934aebe31ac418a63d723b063598d) by Google. 
+🥇 Certified in [Google Cloud Platform](https://www.credly.com/users/davidregaladodataengineer/badges) by Google. 
 
 🥇 Certified in [Python by the Python Institute](https://www.credly.com/badges/eee19e84-8296-423a-a007-ed2c5b4e0c1b). 
 
 🥇 Certified in [R language programming](https://www.coursera.org/account/accomplishments/certificate/DTPPQEDVBA76). 
 
-# Blog posts
+<h3 align="left">Blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# 💡 Other areas of interest
+<h3 align="left">💡 Other areas of interest</h3>
 
 🗣️ Topics: Neuro-Linguistic Programming, Emotional Intelligence, Creative Thinking, Upskilling, Mentoring, Public Speaking, Storytelling.
 
-# 🌎 About  Data Engineering Latam
+<h3 align="left">🌎 About  Data Engineering Latam</h3>
 
 Data Engineering Latam is the largest, fastest-growing, and coolest data community in Latin America whose mission is to promote the region's talent through the dissemination of talks, workshops, study groups, collaborative help, and the creation of relevant content.
 
