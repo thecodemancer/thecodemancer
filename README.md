@@ -146,6 +146,11 @@
 
 🥇 Certified in [R language programming](https://www.coursera.org/account/accomplishments/certificate/DTPPQEDVBA76). 
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 💡 Other areas of interest
 
 🗣️ Topics: Neuro-Linguistic Programming, Emotional Intelligence, Creative Thinking, Upskilling, Mentoring, Public Speaking, Storytelling.
