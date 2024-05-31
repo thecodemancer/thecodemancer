@@ -8,11 +8,11 @@
 
 👨‍💻 Roles I'm interested in: Advisor, Chief Technology (CTO), Chief Data Officer (CDO), Chief Data and Analytics (CDAO), Project Manager, Data Architect, Technical Leader, Data Scientist, Data Engineer
 
-💬 Ask me about mentorships on Artificial Intelligence and Data Engineering
+💬 Ask me about mentorships on Artificial Intelligence and Data Engineering: https://topmate.io/davidregalado
 
 📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
 
-[![David Regalado's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodemancer)](https://github.com/thecodemancer)
+[![David Regalado's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodemancer&theme=calm_pink&show_icons=true)](https://github.com/thecodemancer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
