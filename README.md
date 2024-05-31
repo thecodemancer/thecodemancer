@@ -170,7 +170,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">💡 Other areas of interest</h3>
+<h3 align="left">Other areas of interest</h3>
 
 🗣️ Topics: Neuro-Linguistic Programming, Emotional Intelligence, Creative Thinking, Upskilling, Mentoring, Public Speaking, Storytelling.
 
