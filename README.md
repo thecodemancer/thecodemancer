@@ -4,6 +4,15 @@
 
 👨‍💼 Founder of [Data Engineering Latam community](https://www.linkedin.com/company/data-engineering-latam), the largest, fastest-growing, and coolest data community in Latin America.
 
+🔭 I’m currently working as a VP of Engineering at a Stealth Startup
+
+👨‍💻 Roles I'm interested in: Advisor, Chief Technology (CTO), Chief Data Officer (CDO), Chief Data and Analytics (CDAO), Project Manager, Data Architect, Technical Leader, Data Scientist, Data Engineer
+
+💬 Ask me about mentorships on Artificial Intelligence and Data Engineering
+
+📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
+
+
 # 🏆 Accomplishments
 
 ⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
@@ -14,7 +23,7 @@
 
 ⭐ I was inducted into the [Google Cloud/Qwiklabs Hall of Fame](https://www.linkedin.com/posts/davidregaladodataengineer_gcp-googlecloud-googlecloudplatform-activity-6774532008455532544-1bU1/)
 
-⭐ I reached the Olympus of [Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado)
+⭐ I reached the Olympus of [Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado) (UPDATE: The website was migrated to [Credly](https://www.credly.com/users/davidregaladodataengineer/badges)
 
 ⭐ The only Latino who presented a workshop at [Google Developer Groups UK & Ireland](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
@@ -154,10 +163,6 @@
 # 💡 Other areas of interest
 
 🗣️ Topics: Neuro-Linguistic Programming, Emotional Intelligence, Creative Thinking, Upskilling, Mentoring, Public Speaking, Storytelling.
-
-👨‍💻 Roles: Project Manager, Scrum Master, Data Architect, Technical Leader, Data Scientist, Big Data Engineer
-
-📫 How to reach me: https://www.linkedin.com/in/davidregaladodataengineer/
 
 # 🌎 About  Data Engineering Latam
 
