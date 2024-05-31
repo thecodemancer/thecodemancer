@@ -6,7 +6,16 @@
 
 🔭 I’m currently working as a VP of Engineering at a Stealth Startup
 
-👨‍💻 Roles I'm interested in: Advisor, Chief Technology (CTO), Chief Data Officer (CDO), Chief Data and Analytics (CDAO), Project Manager, Data Architect, Technical Leader, Data Scientist, Data Engineer
+👨‍💻 Roles I'm interested in: 
+- Advisor
+- Chief Technology (CTO)
+- Chief Data Officer (CDO),
+- Chief Data and Analytics (CDAO)
+- Project Manager
+- Data Architect
+- Technical Leader
+- Data Scientist
+- Data Engineer
 
 💬 Ask me about mentorships on Artificial Intelligence and Data Engineering: https://topmate.io/davidregalado
 
