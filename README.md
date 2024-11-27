@@ -23,6 +23,8 @@
 
 [![David Regalado's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodemancer&theme=calm_pink&show_icons=true)](https://github.com/thecodemancer)
 
+[![](https://visitcount.itsvg.in/api?id=thecodemancer&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodemancer_" height="30" width="40" /></a>
