@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/davidregaladodataengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidregaladodataengineer" height="30" width="40" /></a>
 <a href="https://instagram.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodemancer_" height="30" width="40" /></a>
 <a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
 </p>
 
@@ -56,6 +56,10 @@
 
 <h3 align="left">Inverviews & Workshops</h3>
 
+🗣️ Open Source Data Summit 2024: [Say Goodbye to the Lambda Architecture](https://youtu.be/2Uew9CdWpOQ?list=PLmGKp_nLkJ3KmGV4QVWoMZgqWmZ7dR_KW)
+
+🗣️ Andela: [Multimodal search using Google cloud AI tools](https://youtu.be/9VgbJDXCRaE?list=PLmGKp_nLkJ3KmGV4QVWoMZgqWmZ7dR_KW)
+
 🗣️ Big Data Conference Europe 2023: [A Gentle Introduction to Apache Beam](https://www.youtube.com/watch?v=ilPNRywA8ak)
 
 🗣️ Astana Hub / Google for Startups in Central Asia: [a talk about #artificialintelligence to 15 startups from Central Asia at Silkway Accelerator](https://www.linkedin.com/posts/askaraituov_prepwithgdg-cloud-ai-activity-7068072560579497984-vmx2?utm_source=share&utm_medium=member_desktop)
@@ -70,7 +74,9 @@
 
 🗣️ DevFest 2021 UK & Ireland: [Predict Bike Trip Duration with a Regression Model in BQML](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
-🗣️ Eneisoft - UNMSM: [Build and ETL using your own Spotify data!](https://www.facebook.com/watch/live/?ref=watch_permalink&v=561055481815025)
+🗣️ Eneisoft - Universidad Nacional Mayor de San Marcos (UNMSM): [Analysis Subscription-Based Streaming Services!](https://www.linkedin.com/posts/davidregaladodataengineer_dataanalytics-dataanalysis-datascience-activity-7120865728571789312-vsX-/)
+
+🗣️ Eneisoft - Universidad Nacional Mayor de San Marcos (UNMSM): [Build and ETL using your own Spotify data!](https://www.facebook.com/watch/live/?ref=watch_permalink&v=561055481815025)
 
 🗣️ Member of a board of speakers: [Ask the passionate lifetime learner Thom Ives anything about data science](https://www.youtube.com/watch?v=twiec2y1iLM)
 
