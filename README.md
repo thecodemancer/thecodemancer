@@ -84,9 +84,9 @@
 
 🗣️ AI TIME JOURNAL: [Transitioning to a Career in Data Science with David Regalado](https://open.spotify.com/episode/5YZs0tcdm12ueztaoTLxwq)
 
-🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch II - 2021](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch II - 2020](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739528889883774976-fhsy)
 
-🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I - 2021](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch I - 2020](https://www.linkedin.com/posts/davidregaladodataengineer_encantado-de-haber-participado-como-jurado-activity-6739904065934807040-HDRV)
 
 🗣️ Big Data Conference Europe 2020: [Google Cloud Platform: The “What”, “Where” and “How”](https://bigdataconference.eu/2020/Google-Cloud-Platform-First-Steps/)
 
