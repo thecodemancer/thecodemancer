@@ -56,6 +56,10 @@
 
 <h3 align="left">Inverviews & Workshops</h3>
 
+🗣️ Topmate: [Next-Gen Data Coaches](https://www.linkedin.com/posts/davidregaladodataengineer_datascience-dataengineering-dataanalytics-activity-7274187193819054080-mkUS)
+
+🗣️ Universidad Argentina de la Empresa (UADE): [The Pitch - 2024](https://www.linkedin.com/posts/davidregaladodataengineer_innovation-it-software-activity-7275661594875887616-ciKx/)
+
 🗣️ Open Source Data Summit 2024: [Say Goodbye to the Lambda Architecture](https://youtu.be/2Uew9CdWpOQ?list=PLmGKp_nLkJ3KmGV4QVWoMZgqWmZ7dR_KW)
 
 🗣️ Andela: [Multimodal search using Google cloud AI tools](https://youtu.be/9VgbJDXCRaE?list=PLmGKp_nLkJ3KmGV4QVWoMZgqWmZ7dR_KW)
