@@ -38,6 +38,8 @@
 
 <h3 align="left">Accomplishments</h3>
 
+⭐ Featured on [Times Square.](https://www.linkedin.com/feed/update/urn:li:activity:7282557978778472448/)
+
 ⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
 
 ⭐ Recognized as [Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
