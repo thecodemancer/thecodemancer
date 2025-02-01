@@ -27,20 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodemancer_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davidregaladodataengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidregaladodataengineer" height="30" width="40" /></a>
-<a href="https://instagram.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodemancer_" height="30" width="40" /></a>
-<a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodemancer&show_icons=true&locale=en&layout=compact" alt="thecodemancer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodemancer&show_icons=true&locale=en" alt="thecodemancer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodemancer&" alt="thecodemancer" /></p>
-
+  <a href="https://twitter.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodemancer_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/davidregaladodataengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidregaladodataengineer" height="30" width="40" /></a>
+  <a href="https://instagram.com/thecodemancer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodemancer_" height="30" width="40" /></a>
+  <a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
 </p>
 
 
@@ -114,9 +106,19 @@
 
 <h3 align="left">Publications</h3>
 
-📋 Cassie Kozyrkov's Medium: [Analítica no es narrar historias](https://kozyrk.medium.com/anal%C3%ADtica-no-es-narrar-historias-6792e7a45f17)
+📋 Startup Stash's Blog on Medium: [🐳 DeepSeek Won the AI War Against Silicon Valley](https://blog.startupstash.com/deepseek-won-the-ai-war-against-silicon-valley-b5256bc8e995)
 
-📋 Cassie Kozyrkov's Medium: [¿Qué hace que un analista de datos sea excelente?](https://kozyrk.medium.com/qu%C3%A9-hace-que-un-analista-de-datos-sea-excelente-78cd90056dce)
+📋 Google Cloud's Blog on Medium: [Google Machine Learning and Generative AI for Solutions Architects – A Deeper Dive](https://medium.com/google-cloud/google-machine-learning-and-generative-ai-for-solutions-architects-ce18cd7fa62e)
+
+📋 Google Cloud's Blog on Medium: [How to Prepare for the Google Cloud Professional Data Engineer Certification Exam – The Ultimate Guide by David Regalado](https://medium.com/google-cloud/how-to-prepare-for-the-google-cloud-professional-data-engineer-certification-exam-3f77ee3e4389)
+
+📋 Google Cloud's Blog on Medium: [How to Prepare for the Google Cloud Associate Data Practitioner Certification Exam – A Practical Guide by David Regalado](https://medium.com/google-cloud/how-to-prepare-for-the-google-cloud-associate-data-practitioner-exam-93e5b7c21fe1)
+
+📋 Google Cloud's Blog on Medium: [How to Prepare for the Google Cloud Professional Cloud Database Engineer Certification Exam – A Practical Guide by David Regalado](https://medium.com/google-cloud/how-to-prepare-for-the-google-cloud-professional-cloud-database-engineer-exam-2a69baa68b09)
+
+📋 Cassie Kozyrkov's Blog on Medium: [Analítica no es narrar historias](https://kozyrk.medium.com/anal%C3%ADtica-no-es-narrar-historias-6792e7a45f17)
+
+📋 Cassie Kozyrkov's Blog on Medium: [¿Qué hace que un analista de datos sea excelente?](https://kozyrk.medium.com/qu%C3%A9-hace-que-un-analista-de-datos-sea-excelente-78cd90056dce)
 
 📋 Medium: [What the heck is DevOps and why does it matters?](https://davidregalado255.medium.com/what-the-heck-is-devops-and-why-does-it-matters-13d5a0969909)
 
@@ -208,7 +210,7 @@ Data Engineering Latam is the largest, fastest-growing, and coolest data communi
 
 🎤 Do you want to give talks to the community? [Tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSd7CZgRxGHx-rRA7CyAeB0MxNPgVj5rCqQsrjrFiNYhoZxS1w/viewform)
 
-<h3 align="left">Support</h3>
+<h3 align="left">Support my work</h3>
 <p><a href="https://www.buymeacoffee.com/davidregalado"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davidregalado" /></a></p>
 
 
