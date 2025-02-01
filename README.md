@@ -33,6 +33,7 @@
 <a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/davidregalado"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davidregalado" /></a><br><br>
 </p>
 
 
