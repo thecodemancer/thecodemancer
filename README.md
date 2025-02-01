@@ -33,14 +33,22 @@
 <a href="https://medium.com/@davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidregalado255" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@thecodemancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thecodemancer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidregalado255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidregalado255" height="30" width="40" /></a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodemancer&show_icons=true&locale=en&layout=compact" alt="thecodemancer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodemancer&show_icons=true&locale=en" alt="thecodemancer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodemancer&" alt="thecodemancer" /></p>
+
 </p>
 
 
 <h3 align="left">Accomplishments</h3>
 
-⭐ Featured on [Times Square.](https://www.linkedin.com/feed/update/urn:li:activity:7282557978778472448/)
+⭐ Featured on [Times Square](https://www.linkedin.com/feed/update/urn:li:activity:7282557978778472448/)
 
-⭐ I taught Python for Data Science in the [University of Chicago.](https://webinars.onlineprofessionaluchicago.com/es/python)
+⭐ I taught Python for Data Science in the [University of Chicago](https://webinars.onlineprofessionaluchicago.com/es/python)
 
 ⭐ Recognized as [Champion Innovator by Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6965525082882375680/)
 
@@ -48,7 +56,7 @@
 
 ⭐ I was inducted into the [Google Cloud/Qwiklabs Hall of Fame](https://www.linkedin.com/posts/davidregaladodataengineer_gcp-googlecloud-googlecloudplatform-activity-6774532008455532544-1bU1/)
 
-⭐ I reached the Olympus of [Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado) (UPDATE: The website was migrated to [Credly](https://www.credly.com/users/davidregaladodataengineer/badges)
+⭐ I reached the Olympus of [Google Cloud Certified Cloud Consultants](https://googlecloudcertified.credential.net/?name=Regalado) (UPDATE: The website was migrated to [Credly](https://www.credly.com/users/davidregaladodataengineer/badges))
 
 ⭐ The only Latino who presented a workshop at [Google Developer Groups UK & Ireland](https://twitter.com/DevFest_UKI/status/1461748671159095308)
 
